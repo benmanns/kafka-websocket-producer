@@ -1,2 +1,2 @@
-# kafka-websocket-consumer
-Consumes from Kafka and writes data to an HTML5 websocket connection.
+# kafka-websocket-producer
+Consumes from a websocket and writes data to STDOUT. Pipe to [kafkacat](https://github.com/edenhill/kafkacat) to send to your Kafka cluster.
